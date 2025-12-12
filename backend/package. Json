@@ -1,0 +1,13 @@
+{
+  "name": "sweet-shop-backend",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.1",
+    "cors": "^2.8.5"
+  }
+}
